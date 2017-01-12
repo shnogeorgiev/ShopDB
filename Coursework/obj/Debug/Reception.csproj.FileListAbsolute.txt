@@ -1,0 +1,17 @@
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.MasterDetails.BookingsAndCustomers.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.MasterDetails.BookingsAndPayments.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.SubForms.Bookings.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.SubForms.Customers.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.MainForm.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.SubForms.Payments.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.Properties.Resources.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.SubForms.Rooms.resources
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\Reception.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\bin\Debug\DatabaseFiles\Brokers.mdf
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\bin\Debug\DatabaseFiles\Brokers_log.ldf
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\bin\Debug\DB-CourseWork.exe.config
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\bin\Debug\DB-CourseWork.exe
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\bin\Debug\DB-CourseWork.pdb
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB-CourseWork.exe
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB-CourseWork.pdb
+C:\Users\HOME\Desktop\Курсова Работа\Coursework\obj\Debug\DB_CourseWork.ProgramForms.MasterDetails.CustomersAndRooms.resources
